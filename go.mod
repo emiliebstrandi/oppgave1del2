@@ -1,4 +1,4 @@
-module oppgave2
+module del2
 
 go 1.17
 
